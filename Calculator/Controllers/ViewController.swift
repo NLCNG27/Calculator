@@ -37,6 +37,7 @@ class ViewController: UIViewController {
         
         if let calcMethod = sender.currentTitle {
             displayValue = calculatorModel.performOperation(calcMethod, currentDisplayValue: displayValue)
+            calculatorModel.setOperand(displayValue)
         }
         
     }

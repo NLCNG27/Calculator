@@ -80,8 +80,8 @@
 		ADB1961F2146629E00C5317F /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				051B195B2CE6026000CFA77C /* Models */,
 				ADB196202146629E00C5317F /* AppDelegate.swift */,
+				051B195B2CE6026000CFA77C /* Models */,
 				051B195E2CE6027800CFA77C /* Views */,
 				051B195A2CE6025700CFA77C /* Controllers */,
 				ADB19627214662A000C5317F /* Assets.xcassets */,
